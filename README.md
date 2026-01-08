@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Yashfa — Full-Stack Developer & Tech Explorer</h1>
 
-<!--
-**yashfa/yashfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Building scalable web apps | 🤖 Exploring AI and Automation | 💡 Innovating with modern tech stacks  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+I'm a **Full-Stack Developer** passionate about creating intelligent and efficient systems.  
+Currently exploring how **AI + automation + blockchain** can power the next wave of decentralized and data-driven apps.
+
+- 🔭 Working on: AI-assisted trading systems & full-stack automation tools  
+- 🤝 Open to collaborate on: AI/ML, Blockchain, and Web Automation projects  
+- 🌱 Learning: Advanced FastAPI, AI model integration, and smart contract development  
+- 💬 Let’s discuss: Scalable architecture, APIs, and system automation  
+
+---
+### 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,nest,mysql,mongodb,postgres,tailwind,html,css,git,docker&perline=9" />
+</p>
