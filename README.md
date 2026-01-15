@@ -11,8 +11,8 @@
 I'm a **Full-Stack Developer** passionate about creating intelligent and efficient systems.  
 Currently exploring how **AI + automation + blockchain** can power the next wave of decentralized and data-driven apps.
 
-- 🔭 Working on: AI-assisted trading systems & full-stack automation tools  
-- 🤝 Open to collaborate on: AI/ML, Blockchain, and Web Automation projects  
+- 🔭 Working on: Javascript and Typescript web applications  
+- 🤝 Open to collaborate on: Healthcare, EdTech, Fintech, and Web Automation projects  
 - 🌱 Learning: Advanced FastAPI, AI model integration, and smart contract development  
 - 💬 Let’s discuss: Scalable architecture, APIs, and system automation  
 
